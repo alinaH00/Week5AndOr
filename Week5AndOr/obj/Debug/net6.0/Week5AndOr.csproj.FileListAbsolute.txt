@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\bin\Debug\net6.0\Week5AndOr.exe
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\bin\Debug\net6.0\Week5AndOr.deps.json
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\bin\Debug\net6.0\Week5AndOr.runtimeconfig.json
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\bin\Debug\net6.0\Week5AndOr.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\bin\Debug\net6.0\Week5AndOr.pdb
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\refint\Week5AndOr.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.pdb
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\Week5AndOr.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOr\obj\Debug\net6.0\ref\Week5AndOr.dll

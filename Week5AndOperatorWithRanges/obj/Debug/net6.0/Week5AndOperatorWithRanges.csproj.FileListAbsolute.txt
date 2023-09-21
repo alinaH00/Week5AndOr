@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\bin\Debug\net6.0\Week5AndOperatorWithRanges.exe
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\bin\Debug\net6.0\Week5AndOperatorWithRanges.deps.json
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\bin\Debug\net6.0\Week5AndOperatorWithRanges.runtimeconfig.json
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\bin\Debug\net6.0\Week5AndOperatorWithRanges.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\bin\Debug\net6.0\Week5AndOperatorWithRanges.pdb
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\refint\Week5AndOperatorWithRanges.dll
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.pdb
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\Week5AndOperatorWithRanges.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week5AndOr\Week5AndOperatorWithRanges\obj\Debug\net6.0\ref\Week5AndOperatorWithRanges.dll
